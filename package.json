@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/omerkeskin/basic-redux#readme",
   "dependencies": {
-    "react-redux": "^7.2.5"
+    "redux": "^4.1.1"
   }
 }
